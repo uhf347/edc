@@ -1,0 +1,14 @@
+﻿{
+    "name": "edc",
+    "description": "edc",
+    "logo":"edc",
+    "keywords": ["edc"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/uhf347/edc",
+    "stack": "container"
+}
